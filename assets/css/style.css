@@ -7984,9 +7984,6 @@ ul.rating-text li,
 .blog-area.news {
   display: none !important;
 }
-.team-item-2.blog-img > a > img {
-  opacity: 0;
-}
 @media only screen and (max-width: 767px) {
   .navbar-brand img {
     max-width: 50px !important;
